@@ -1,6 +1,6 @@
 # Do Language Models Reshape Beliefs or Just Their Reasoning?
 
-Full write up in `/paper`.
+Full writeup in `/paper`.
 
 ## Overview
 
